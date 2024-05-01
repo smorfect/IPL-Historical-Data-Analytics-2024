@@ -24,4 +24,6 @@ Contact: For any questions or feedback regarding this project, feel free to reac
 
 Presentation Link: https://youtu.be/rKcbjxR-O4c
 
+NovyPro Dashboard Link: https://project.novypro.com/QcNXmK
+
 
